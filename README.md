@@ -1,2 +1,2 @@
 # doordash-driver-app-bugs-part1
-Repository containing documented bugs found in the DoorDash Driver app, including delivery confirmation errors during combined orders.
+Documented issues and bug reports discovered while using the DoorDash Driver app in production.
